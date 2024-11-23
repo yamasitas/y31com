@@ -12,7 +12,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200");
 :root {
   --white: #fff;
-  --text-color: #494340;
+  --text-color: #b6a297;
   --text-point-color: var(--white);
   --menu-color: var(--theme-color2-default);
   --bg-color1: var(--theme-color1-light);
@@ -20,7 +20,7 @@
   --theme-color1-more-light: #154215;
   --theme-color1-light: #0b3b15;
   --theme-color1-default: #0e5200;
-  --theme-color2-default: #3c6dd6;
+  --theme-color2-default: #7194df;
   --theme-color3-default: #3cc45a;
   --animation: 0.7s;
   /* ▼ novel viewerを使用しない場合は削除してOK ▼ */
@@ -452,7 +452,7 @@ footer {
 /* 見出し */
 h1 {
   margin: 0;
-  font: 700 60px/1 "Comfortaa", "Zen Maru Gothic", "Yu Gothic", Meiryo, "Hiragino Kaku Gothic ProN", sans-serif;
+  font: 700 30px/1 "Comfortaa", "Zen Maru Gothic", "Yu Gothic", Meiryo, "Hiragino Kaku Gothic ProN", sans-serif;
   color: var(--text-point-color);
   letter-spacing: 24px;
   padding-inline-start: 10px;
