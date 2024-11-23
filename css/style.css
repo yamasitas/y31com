@@ -17,11 +17,11 @@
   --menu-color: var(--theme-color2-default);
   --bg-color1: var(--theme-color1-light);
   --bg-color2: var(--theme-color1-more-light);
-  --theme-color1-more-light: #fcc470;
-  --theme-color1-light: #fcbc5c;
-  --theme-color1-default: #fca537;
+  --theme-color1-more-light: #154215;
+  --theme-color1-light: #0b3b15;
+  --theme-color1-default: #0e5200;
   --theme-color2-default: #3c6dd6;
-  --theme-color3-default: #63b975;
+  --theme-color3-default: #3cc45a;
   --animation: 0.7s;
   /* ▼ novel viewerを使用しない場合は削除してOK ▼ */
   --env-button-rounded: 1.5rem;
